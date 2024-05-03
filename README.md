@@ -8,3 +8,14 @@ Projeto da disciplina de Tecnoligias de Frontend usando as linguagens VUE.JS e u
 
 
 ![About](https://github.com/lucasgribeiro5/Rick-And-Morty/assets/127799897/ede1ba06-6c22-436d-b969-0bebd9ab2bf4)
+
+
+# Aluno
+
+Lucas Garcia Ribeiro 
+
+RA:1971977
+
+3° termo
+
+TURMA: B
