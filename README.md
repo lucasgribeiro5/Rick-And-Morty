@@ -1,29 +1,10 @@
 # Rick and Morty
 
-This template should help get you started developing with Vue 3 in Vite.
+Projeto da disciplina de Tecnoligias de Frontend usando as linguagens VUE.JS e uma API do Rick And Morty.
 
-## Recommended IDE Setup
+# Prints
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+![Home](https://github.com/lucasgribeiro5/Rick-And-Morty/assets/127799897/51c0b454-0f91-45e5-aae7-65e6c46d02db)
 
-## Customize configuration
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+![About](https://github.com/lucasgribeiro5/Rick-And-Morty/assets/127799897/ede1ba06-6c22-436d-b969-0bebd9ab2bf4)
