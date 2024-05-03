@@ -34,6 +34,7 @@ onMounted(() => {
                 :species="rickandmorty.species"
                 :gender="rickandmorty.gender"
                 :location="rickandmorty.location"
+                :episode="rickandmorty.episode"
               ></RickandMorty>
             </div>
           </div>
@@ -47,8 +48,12 @@ onMounted(() => {
 body{
   background-color: #081119;
 }
-.card-body {
+
+.card {
+  margin-top: 0;
+  padding-top: 0;
 }
+
 
 .card-body .rickandmorty {
   flex: 0 0 calc(25% - 10px);
@@ -63,5 +68,23 @@ body{
 .rickandmorty .info {
   margin-top: 5px;
   text-align: center;
+}
+
+.container::-webkit-scrollbar {
+  width: 10px;
+  height: 10px;
+}
+
+.container::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+.container::-webkit-scrollbar-thumb {
+  background: #888;
+  border-radius: 5px;
+}
+
+.container::-webkit-scrollbar-thumb:hover {
+  background: #555;
 }
 </style>
