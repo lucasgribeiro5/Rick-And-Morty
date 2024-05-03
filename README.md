@@ -1,6 +1,6 @@
 # Rick and Morty
 
-Projeto da disciplina de Tecnoligias de Frontend usando as linguagens VUE.JS e uma API do Rick And Morty.
+Projeto da disciplina de Tecnologias de Frontend usando as linguagens Vue.js e uma API do Rick And Morty.
 
 # Prints
 
